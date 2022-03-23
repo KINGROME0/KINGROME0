@@ -9,3 +9,20 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110319833-47367180-7fc4-11eb-87a7-392509eca9d7.gif" alt="Bt">
  
 <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
+ 
+ ##
+ 
+ 
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=KING_ROMEO)
+
+</details>
+
+##
+
+<details>
+    <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/KING_ROMEO?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia/Colombo)
